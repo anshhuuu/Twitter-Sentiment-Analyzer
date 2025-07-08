@@ -31,9 +31,6 @@ Trained on: Twitter dataset with sentiment labels (0 = Negative, 1 = Positive)
 
 ## Project Structure
 ```
-bash
-Copy
-Edit
 Twitter-Sentiment-Analyzer/
 │
 ├── app.py / streamlit_sentiment_app.py 
