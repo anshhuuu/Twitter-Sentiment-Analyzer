@@ -60,4 +60,7 @@ pip install -r requirements.txt
 import nltk
 nltk.download('stopwords')
 ```
+4. Running the App
+```
+streamlit run app.py
 
